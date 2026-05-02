@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabarito&size=50&duration=4000&pause=1000&color=621721&width=435&lines=Hello%2C+I'm+PJ+Valencia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=100&size=50&duration=4000&pause=1000&color=621721&vCenter=true&width=435&lines=Hello%2C+I'm+PJ+Valencia)](https://git.io/typing-svg)
 
 # <img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" height="30"/> Full Stack Developer
 
