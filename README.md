@@ -16,34 +16,82 @@ Information Technology graduate from **Central Luzon State University** with pra
 <details>
 <summary><img src="https://img.icons8.com/fluency/48/code.png" width="20" height="20"/> Languages</summary>
 
-<img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48" alt="Python"/>
-<img src="https://img.icons8.com/color/48/php.png" width="48" height="48" alt="PHP"/>
-<img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3"/>
-<img src="https://img.icons8.com/color/48/javascript--v1.png" width="48" height="48" alt="JavaScript"/>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48" alt="Python"/>
+  <br/>Python
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/php.png" width="48" height="48" alt="PHP"/>
+  <br/>PHP
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48" alt="HTML5"/>
+  <br/>HTML5
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3"/>
+  <br/>CSS3
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="48" height="48" alt="JavaScript"/>
+  <br/>JavaScript
+</div>
 
 </details>
 
 <details>
 <summary><img src="https://img.icons8.com/fluency/48/web.png" width="20" height="20"/> Frontend</summary>
 
-<img src="https://img.icons8.com/color/48/vite.png" width="48" height="48" alt="Vite"/>
-<img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48" alt="React"/>
-<img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" alt="TypeScript"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
-<img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3"/>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/vite.png" width="48" height="48" alt="Vite"/>
+  <br/>Vite
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48" alt="React"/>
+  <br/>React
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/typescript.png" width="48" height="48" alt="TypeScript"/>
+  <br/>TypeScript
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
+  <br/>Bootstrap
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48" alt="HTML5"/>
+  <br/>HTML5
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS3"/>
+  <br/>CSS3
+</div>
 
 </details>
 
 <details>
 <summary><img src="https://img.icons8.com/fluency/48/database.png" width="20" height="20"/> Backend & Database</summary>
 
-<img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48" alt="Node.js"/>
-<img src="https://img.icons8.com/color/48/express-js.png" width="48" height="48" alt="Express.js"/>
-<img src="https://img.icons8.com/color/48/mongodb.png" width="48" height="48" alt="MongoDB"/>
-<img src="https://img.icons8.com/color/48/net-framework.png" width="48" height="48" alt=".NET"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="48" height="48" alt="MySQL"/>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48" alt="Node.js"/>
+  <br/>Node.js
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/express-js.png" width="48" height="48" alt="Express.js"/>
+  <br/>Express.js
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="48" height="48" alt="MongoDB"/>
+  <br/>MongoDB
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/net-framework.png" width="48" height="48" alt=".NET"/>
+  <br/>.NET
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="48" height="48" alt="MySQL"/>
+  <br/>MySQL
+</div>
 
 </details>
 
