@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=4000&pause=1000&color=B026FF&width=1500&height=150&lines=Hi%2C+I'm+PJ+Valencia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabarito&size=50&duration=4000&pause=1000&color=621721&width=435&lines=Hello%2C+I'm+PJ+Valencia)](https://git.io/typing-svg)
 
 # <img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" height="30"/> Full Stack Developer
 
@@ -49,19 +49,6 @@ Information Technology graduate from **Central Luzon State University** with pra
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/trophy.png" width="30" height="30"/> Learning & Achievements
-
-<details>
-<summary><img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="20" height="20"/> Courses & Certifications</summary>
-
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=FFD43B)
-![Coursera](https://img.shields.io/badge/Coursera-00FFE7?style=for-the-badge&logo=Coursera&logoColor=232946)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-FF007F?&style=for-the-badge&logo=freecodecamp&logoColor=FFD43B)
-
-</details>
-
----
-
 ## <img src="https://img.icons8.com/fluency/48/goal.png" width="30" height="30"/> Professional Focus
 
 - <img src="https://img.icons8.com/fluency/48/wrench.png" width="20" height="20"/> Building robust full-stack applications with modern frameworks
@@ -72,7 +59,7 @@ Information Technology graduate from **Central Luzon State University** with pra
 ---
 
 
-## <img src="https://img.icons8.com/fluency/48/connect.png" width="30" height="30"/> Let's Connect!
+## <img src="https://img.icons8.com/fluency/48/chat.png" width="30" height="30"/> Let's Connect!
 
 Feel free to reach out for collaborations, opportunities, or just to chat about technology and development!
 
